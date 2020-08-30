@@ -3,8 +3,8 @@
 4 different implementations of the Fibonacci algorithm in Java.
 
 ## Prerequisites
-Java 8+
-Maven
+* Java 8+ 
+* Maven
 
 ## How to run
 ```
